@@ -1,0 +1,11 @@
+PORT = 35000
+SERVER_ADDRESS = "localhost"
+COMMAND_SIZE = 9
+INT_SIZE = 8
+ADD_OP = "add      "
+SUB_OP = "sub      "
+MUL_OP = "mul      "
+DIV_OP = "div      "
+SQRT_OP = "sqrt     "
+OBJ_OP = "add_obj  "
+END_OP = "stop     "
